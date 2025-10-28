@@ -1,0 +1,13 @@
+sqlalchemy
+python-dotenv
+langchain-groq
+langchain-core
+tabulate
+langchain-community
+pypdf2
+python-docx
+pandas
+faiss-cpu
+sentence-transformers
+tf-keras
+tensorflow
